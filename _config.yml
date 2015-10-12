@@ -1,0 +1,12 @@
+# Site settings
+title: redcap-tools.github.io
+email: your-email@domain.com
+description: "REDCap-Tools, promoting awesome projects built atop REDCap and fostering a community of developers around them."
+baseurl: ""
+url: "http://redcap-tools.github.io"
+twitter_username: 
+github_username: redcap-tools 
+
+# Build settings
+markdown: kramdown
+permalink: pretty

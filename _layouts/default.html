@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+      
+      {% include header.html %}
+
+      <div class="col-sm-6 col-sm-offset-3">
+        <div class="page-content">
+          <div class="wrap">
+          {{ content }}
+          </div>
+        </div>
+      </div>
+
+      {% include footer.html %}
+    </div>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  </body>
+</html>
