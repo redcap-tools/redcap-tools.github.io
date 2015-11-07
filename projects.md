@@ -6,7 +6,9 @@ permalink: "/projects/"
 
 Below you'll find interesting projects built against either [REDCap](http://www.project-redcap.org/)'s API, the Data Entry Trigger or some combination.
 
-Also a few other libraries exist for communicating with REDCap:
+## API Libraries
+
+Several libraries exist for communicating with REDCap's API.  If one of these languages is available to you, they can help make your development quicker and more robust.
 
 | Project | Language<br/>(Documentation) | Description from its Repository|
 | :------ | :------: | :----------------------------- |
@@ -19,3 +21,12 @@ Also a few other libraries exist for communicating with REDCap:
 | [REDCapR](https://github.com/OuhscBbmc/REDCapR)<br/>[![GitHub release](https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg)](https://github.com/OuhscBbmc/REDCapR) | R<br/>[(Documentation)](https://github.com/OuhscBbmc/REDCapR/blob/master/documentation_peek.pdf) | Encapsulates functions to streamline calls from R to the REDCap API. |
 
 When you're choosing a library, consider if you need one that's been updated since REDCap's version 6.0.0 changes in Sept 2014.
+
+## Common Resources
+
+The some developers of different libraries have collaborated to create resources not tied to any specific library.  The finished products and the source code are available on GitHub, and any contributions or suggestions are welcomed.
+
+| Resource | Description |
+| :------: | :---------- |
+| [redcap-tools](http://redcap-tools.github.io/) | REDCap-Tools is a GitHub organization that fosters interesting projects built against REDCap. Developers and projects in this organization have no official ties to REDCap other than looking to push the data management capabilities provided by REDCap’s more advanced tools (namely the API and Data Entry Triggers) to their fullest potential. [Edit the web site source code [here](https://github.com/redcap-tools/redcap-tools.github.io); view the repositories [here](https://github.com/redcap-tools).)]|
+| [API Troubleshooting Vignette](https://cdn.rawgit.com/OuhscBbmc/REDCapR/master/inst/doc/TroubleshootingApiCalls.html) | There are many links in the pipeline between your institution's REDCap server and the API user. When the end result is unsuccessful, this document should help narrow the location of the possible problem. The first two sections will be relevant to almost any language interacting with the API. (Edit source code [here](https://github.com/OuhscBbmc/REDCapR/blob/master/vignettes/TroubleshootingApiCalls.Rmd).)|
