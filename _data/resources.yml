@@ -1,3 +1,7 @@
+# Each record should contain:
+# name: (string)
+# link: (URL) location to point visitors
+# description: (text) High-level overview about the resource. Format links with <a> tags.
 - name: redcap-tools
   link: http://redcap-tools.github.io/
   description: REDCap-Tools is a GitHub organization that fosters interesting projects built against REDCap. Developers and projects in this organization have no official ties to REDCap other than looking to push the data management capabilities provided by REDCap’s more advanced tools (namely the API and Data Entry Triggers) to their fullest potential. (Edit the web site source code [here](https://github.com/redcap-tools/redcap-tools.github.io); view the repositories [here](https://github.com/redcap-tools).

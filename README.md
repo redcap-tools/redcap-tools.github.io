@@ -2,6 +2,10 @@
 
 This is the [jekyll](https://jekyllrb.com/) site behind the http://redcap-tools.github.io.
 
+## Adding projects & resources.
+
+The projects & resources tables on the [Projects](http://redcap-tools.github.io/projects/) are driven by [Jekyll Data files](http://jekyllrb.com/docs/datafiles/). Updating these tables simply requires a new row in the appropriate YAML files in the `_data` directory.
+
 ## Contributing
 
 * [Install jekyll](http://jekyllrb.com/docs/installation/)
