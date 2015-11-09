@@ -1,0 +1,44 @@
+- name: GoCap
+  repo: https://github.com/tjrivera/go-cap)
+  repo_release: https://img.shields.io/github/release/tjrivera/go-cap.svg
+  language: Go
+  description: A golang based library for REDCap. It provides helpful abstractions for making requests to REDCap's REST API. The project is currently in development and not considered production-ready.
+- name: nef-c-sharp
+  repo: https://github.com/redcap-tools/nef-c-sharp)
+  repo_release: https://img.shields.io/github/release/redcap-tools/nef-c-sharp.svg
+  language: C#
+  description: These functions push/pull <a href="https://msdn.microsoft.com/en-us/library/system.data.datatable.aspx">DataTables</a>.  It can be used in an .aspx program, or in a windows desktop program, a DET program, etc.
+- name: PhpCap
+  repo: https://github.com/aarenson/PhpCap)
+  repo_release: https://img.shields.io/github/release/aarenson/PhpCap.svg
+  language: PHP
+  docs: https://github.com/aarenson/PhpCap/blob/master/README.md
+  description: Provides classes that simplify the use of the REDCap application programming interface (API) using PHP.
+- name: PyCap
+  repo: https://github.com/redcap-tools/PyCap)
+  repo_release: https://img.shields.io/github/release/redcap-tools/PyCap.svg
+  language: Python
+  docs: http://pycap.readthedocs.org
+  description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
+- name: redcapAPI
+  repo: https://github.com/nutterb/redcapAPI
+  repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
+  language: R
+  docs: https://cran.r-project.org/web/packages/redcapAPI/redcapAPI.pdf
+  description: An R interface to REDCap, and is an actively developed fork of <a href="https://github.com/vubiostat/redcap">redcap</a>, originally created by <a href="https://github.com/jeffreyhorner">Jeffrey Horner</a>.
+- name: RedcapAPI
+  repo: https://github.com/eugyev/RedcapAPI
+  repo_release: https://img.shields.io/github/release/eugyev/RedcapAPI.svg
+  language: Ruby
+  description: An interface for REDCAP using ruby.
+- name: REDCap_API
+  repo: https://github.com/james2012/REDCap_API
+  repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
+  language: JavaScript
+  description: To Access REDCap by API
+- name: REDCapR
+  repo: https://github.com/OuhscBbmc/REDCapR
+  repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
+  language: R
+  docs: https://github.com/OuhscBbmc/REDCapR/blob/master/documentation_peek.pdf
+  description: Encapsulates functions to streamline calls from R to the REDCap API.
