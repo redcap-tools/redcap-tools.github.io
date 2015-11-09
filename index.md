@@ -14,4 +14,5 @@ If you have a suggestion, please consider [creating an issue](https://github.com
 ### Website Contributors
 
 * [@sburns](https://github.com/sburns)
-* [Will Beasley](https://github.com/wibeasley), University of Oklahoma Health Sciences Center
+* [Will Beasley](https://github.com/wibeasley), University of Oklahoma Health Sciences Center, [BBMC](http://www.ouhsc.edu/bbmc/#about)
+* [Hao Zhu](https://github.com/haozhu233), [Institute for Aging Research](http://www.instituteforagingresearch.org/)
