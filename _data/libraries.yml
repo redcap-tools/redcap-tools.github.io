@@ -10,17 +10,12 @@
   repo_release: https://img.shields.io/github/release/tjrivera/go-cap.svg
   language: Go
   description: A golang based library for REDCap. It provides helpful abstractions for making requests to REDCap's REST API. The project is currently in development and not considered production-ready.
-- name: nef-c-sharp
-  repo: https://github.com/redcap-tools/nef-c-sharp
-  repo_release: https://img.shields.io/github/release/redcap-tools/nef-c-sharp.svg
-  language: C#
-  description: These functions push/pull <a href="https://msdn.microsoft.com/en-us/library/system.data.datatable.aspx">DataTables</a>.  It can be used in an .aspx program, or in a windows desktop program, a DET program, etc.
 - name: PhpCap
   repo: https://github.com/aarenson/PhpCap
   repo_release: https://img.shields.io/github/release/aarenson/PhpCap.svg
   language: PHP
   docs: https://github.com/aarenson/PhpCap/blob/master/README.md
-  description: Provides classes that simplify the use of the REDCap application programming interface (API) using PHP.
+  description: Provides classes that simplify the use of the REDCap API using PHP.
 - name: PyCap
   repo: https://github.com/redcap-tools/PyCap
   repo_release: https://img.shields.io/github/release/redcap-tools/PyCap.svg
