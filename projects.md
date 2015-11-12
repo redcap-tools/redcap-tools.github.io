@@ -21,7 +21,7 @@ Several libraries exist for communicating with REDCap's API.  If one of these la
     </tr>
   </thead>
   <tbody>
-  {% for project in site.data.projects %}
+  {% for project in site.data.libraries %}
     <tr>
       <td><a href="{{ project.repo }}">{{ project.name }}</a></td>
 	  <td>{{ project.language }}</td>
@@ -57,4 +57,4 @@ The some developers of different libraries have collaborated to create resources
 
 
 * As a user choosing a resource, consider if you need one that's been updated since REDCap's version 6.0.0 (in Sept 2014), or since any other version that introduced API modifications and improvements.
-* As a developer maintaining one of these resource, please tell us if you'd like changes to an entry below.  Help us keep the info current by editing the ["libraries" yaml file](https://github.com/redcap-tools/redcap-tools.github.io/blob/master/_data/projects.yml) or the ["resources" yaml file](https://github.com/redcap-tools/redcap-tools.github.io/blob/master/_data/resources.yml) (depending on which table above you'd like to modify), and submitting a [PR](https://github.com/redcap-tools/redcap-tools.github.io/pulls).  Alternatively, you can create a conventional [GitHub issue](https://github.com/redcap-tools/redcap-tools.github.io/issues) and tell us how your project can be more accurately described.
+* As a developer maintaining one of these resource, please tell us if you'd like changes to an entry below.  Help us keep the info current by editing the ["libraries" yaml file](https://github.com/redcap-tools/redcap-tools.github.io/blob/master/_data/libraries.yml) or the ["resources" yaml file](https://github.com/redcap-tools/redcap-tools.github.io/blob/master/_data/resources.yml) (depending on which table above you'd like to modify), and submitting a [PR](https://github.com/redcap-tools/redcap-tools.github.io/pulls).  Alternatively, you can create a conventional [GitHub issue](https://github.com/redcap-tools/redcap-tools.github.io/issues) and tell us how your project can be more accurately described.

@@ -1,8 +1,8 @@
 # Each record should contain:
 # name: (string) name of project
 # repo: (URL) canonical source for the project
-# repo_release: (URL), 
-# language: (string) the programming language 
+# repo_release: (URL),
+# language: (string) the programming language
 # docs: (URL) (optional) location for project documentation
 # description: (string) brief overview of the project. Links must use <a> tags.
 - name: GoCap
@@ -37,7 +37,7 @@
   repo: https://github.com/eugyev/RedcapAPI
   repo_release: https://img.shields.io/github/release/eugyev/RedcapAPI.svg
   language: Ruby
-  description: An interface for REDCAP using ruby.
+  description: An interface for REDCAP using Ruby.
 - name: REDCap_API
   repo: https://github.com/james2012/REDCap_API
   repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
