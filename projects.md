@@ -17,14 +17,16 @@ Several libraries exist for communicating with REDCap's API.  If one of these la
       <th>Project</th>
       <th>Language</th>
       <th>Description</th>
+      <th>Release</th>
     </tr>
   </thead>
   <tbody>
   {% for project in site.data.projects %}
     <tr>
-      <td><a href="{{ project.repo }}">{{ project.name }}</a> <br /> <img src="{{ project.repo_release }}" alt="Github Release"></td>
-	  <td>{{ project.language }} {% if project.docs %} <br /> <a href="{{ project.docs }}">Documentation</a> {% endif %}</td>
+      <td><a href="{{ project.repo }}">{{ project.name }}</a></td>
+	  <td>{{ project.language }}</td>
 	  <td>{{ project.description }}</td>
+    <td><img src="{{ project.repo_release }}" alt="Github Release"> {% if project.docs %} <br /> <a href="{{ project.docs }}">Documentation</a> {% endif %}</td>
     </tr>
   {% endfor %}
   </tbody>
