@@ -1,4 +1,5 @@
 # redcap-tools.github.io
+<img src="https://img.shields.io/travis/redcap-tools/redcap-tools.github.io.svg" alt="Travis CI status">
 
 This is the [jekyll](https://jekyllrb.com/) site behind the http://redcap-tools.github.io.
 
