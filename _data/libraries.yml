@@ -42,7 +42,7 @@
   repo: https://github.com/agapow/redcaphelper
   repo_release: https://img.shields.io/github/release/agapow/redcaphelper.svg
   language: Python
-  description: Wraps the [PyCap](https://github.com/redcap-tools/PyCap) interface to provide some useful functions (e.g. chunked uploads and downloads, downloading the database schema) and some useful scripts that use these for uploads, backups as well as other tasks like generating REDCap vocabularies and filling in import templates.
+  description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
 - name: REDCapR
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
