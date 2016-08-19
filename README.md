@@ -1,5 +1,5 @@
 # redcap-tools.github.io
-[![Build Status](https://travis-ci.org/redcap-tools/redcap-tools.github.io.svg)](https://travis-ci.org/redcap-tools/redcap-tools.github.io)
+[![Build Status](https://travis-ci.org/redcap-tools/redcap-tools.github.io.svg?branch=master)](https://travis-ci.org/redcap-tools/redcap-tools.github.io)
 
 This is the [jekyll](https://jekyllrb.com/) site behind the http://redcap-tools.github.io.
 
