@@ -38,6 +38,11 @@
   repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
   language: JavaScript
   description: To Access REDCap by API
+- name: redcaphelper
+  repo: https://github.com/agapow/redcaphelper
+  repo_release: https://img.shields.io/github/release/agapow/redcaphelper.svg
+  language: Python
+  description: Wraps the [PyCap](https://github.com/redcap-tools/PyCap) interface to provide some useful functions (e.g. chunked uploads and downloads, downloading the database schema) and some useful scripts that use these for uploads, backups as well as other tasks like generating REDCap vocabularies and filling in import templates.
 - name: REDCapR
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
