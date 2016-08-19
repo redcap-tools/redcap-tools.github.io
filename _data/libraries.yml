@@ -47,5 +47,5 @@
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
   language: R
-  docs: https://github.com/OuhscBbmc/REDCapR/blob/master/documentation_peek.pdf
+  docs: https://github.com/OuhscBbmc/REDCapR/blob/master/documentation-peek.pdf
   description: Encapsulates functions to streamline calls from R to the REDCap API.
