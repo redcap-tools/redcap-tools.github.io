@@ -22,6 +22,16 @@
   language: Python
   docs: http://pycap.readthedocs.org
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
+- name: redcap
+  repo: https://github.com/peterclark/redcap
+  repo_release: https://img.shields.io/github/release/peterclark/redcap.svg
+  language: Ruby
+  description: A Ruby gem for interacting with the REDCap API.
+- name: REDCap_API
+  repo: https://github.com/james2012/REDCap_API
+  repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
+  language: JavaScript
+  description: To Access REDCap by API.
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
   repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
@@ -33,16 +43,6 @@
   repo_release: https://img.shields.io/github/release/eugyev/RedcapAPI.svg
   language: Ruby
   description: An interface for REDCAP using Ruby.
-- name: redcap
-  repo: https://github.com/peterclark/redcap
-  repo_release: https://img.shields.io/github/release/peterclark/redcap.svg
-  language: Ruby
-  description: A Ruby gem for interacting with the REDCap API
-- name: REDCap_API
-  repo: https://github.com/james2012/REDCap_API
-  repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
-  language: JavaScript
-  description: To Access REDCap by API
 - name: redcaphelper
   repo: https://github.com/agapow/redcaphelper
   repo_release: https://img.shields.io/github/release/agapow/redcaphelper.svg
