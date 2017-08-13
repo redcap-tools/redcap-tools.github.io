@@ -22,11 +22,21 @@
   language: Python
   docs: http://pycap.readthedocs.org
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
+- name: redcap
+  repo: https://github.com/peterclark/redcap
+  repo_release: https://img.shields.io/github/release/peterclark/redcap.svg
+  language: Ruby
+  description: A Ruby gem for interacting with the REDCap API.
+- name: REDCap_API
+  repo: https://github.com/james2012/REDCap_API
+  repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
+  language: JavaScript
+  description: To Access REDCap by API.
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
   repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
   language: R
-  docs: https://cran.r-project.org/web/packages/redcapAPI/redcapAPI.pdf
+  docs: https://www.rdocumentation.org/packages/redcapAPI
   description: An R interface to REDCap, and is an actively developed fork of <a href="https://github.com/vubiostat/redcap">redcap</a>, originally created by <a href="https://github.com/jeffreyhorner">Jeffrey Horner</a>.
 - name: RedcapAPI
   repo: https://github.com/eugyev/RedcapAPI
@@ -52,5 +62,5 @@
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
   language: R
-  docs: https://github.com/OuhscBbmc/REDCapR/blob/master/documentation-peek.pdf
+  docs: https://www.rdocumentation.org/packages/REDCapR/
   description: Encapsulates functions to streamline calls from R to the REDCap API.
