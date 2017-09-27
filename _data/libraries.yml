@@ -58,6 +58,12 @@
   repo_release: https://img.shields.io/github/release/agapow/redcaphelper.svg
   language: Python
   description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
+- name: redcap.js
+  repo: https://github.com/iupui-software-innovation/redcap
+  repo_release: https://img.shields.io/github/release/iupui-software-innovation/redcap.svg
+  language: JavaScript
+  docs: https://github.com/iupui-software-innovation/redcap/wiki
+  description: simple, lightweight JavaScript client module for REDCap
 - name: REDCapR
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
