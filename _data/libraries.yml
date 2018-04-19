@@ -43,11 +43,6 @@
   repo_release: https://img.shields.io/github/release/eugyev/RedcapAPI.svg
   language: Ruby
   description: An interface for REDCAP using Ruby.
-- name: REDCap_API
-  repo: https://github.com/james2012/REDCap_API
-  repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
-  language: JavaScript
-  description: To Access REDCap by API
 - name: redcap-api
   repo: https://github.com/cctrbic/redcap-api
   repo_release: https://img.shields.io/github/release/cctrbic/redcap-api.svg
