@@ -1,8 +1,6 @@
 language: ruby
-rvm:
-  - 2.2.5
 
-# Follows advice of https://github.com/gjtorikian/html-proofer/wiki/Using-HTMLProofer-From-Ruby-and-Travis  
+# Follows advice of https://github.com/gjtorikian/html-proofer/wiki/Using-HTMLProofer-From-Ruby-and-Travis
 addons:
   apt:
     packages:
