@@ -17,3 +17,6 @@
 - name: API Troubleshooting Vignette
   link: https://cdn.rawgit.com/OuhscBbmc/REDCapR/master/inst/doc/TroubleshootingApiCalls.html
   description: There are many links in the pipeline between your institution's REDCap server and the API user. When the end result is unsuccessful, this document should help narrow the location of the possible problem. The first two sections will be relevant to almost any language interacting with the API. (Edit source code <a href="https://github.com/OuhscBbmc/REDCapR/blob/master/vignettes/TroubleshootingApiCalls.Rmd">here</a>).
+- name: REDCap API 101
+  link: https://www.iths.org/blog/news/redcap-tip/redcap-api-101/
+  description:  a blog post about the API for users that are new to the concept, from the University of Washington ITHS.
