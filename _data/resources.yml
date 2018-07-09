@@ -15,7 +15,7 @@
   link: https://community.projectredcap.org/articles/456/api-documentation.html
   description: A replication of the documentation available at https://YOUR_REDCAP_INSTALLATION/redcap/api/help.  Another way to click on the API Documentation link in the "Technical / Developer Tools" section of the menu (in the Control Center of your institution's instance).
 - name: API Troubleshooting Vignette
-  link: https://cdn.rawgit.com/OuhscBbmc/REDCapR/master/inst/doc/TroubleshootingApiCalls.html
+  link: https://ouhscbbmc.github.io/REDCapR/articles/TroubleshootingApiCalls.html
   description: There are many links in the pipeline between your institution's REDCap server and the API user. When the end result is unsuccessful, this document should help narrow the location of the possible problem. The first two sections will be relevant to almost any language interacting with the API. (Edit source code <a href="https://github.com/OuhscBbmc/REDCapR/blob/master/vignettes/TroubleshootingApiCalls.Rmd">here</a>).
 - name: REDCap API 101
   link: https://www.iths.org/blog/news/redcap-tip/redcap-api-101/
