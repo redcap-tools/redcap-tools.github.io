@@ -7,7 +7,7 @@
 # description: (string) brief overview of the project. Links must use <a> tags.
 - name: GoCap
   repo: https://github.com/tjrivera/go-cap
-  repo_release:
+  repo_release: https://via.placeholder.com/1.svg
   language: Go
   description: A golang based library for REDCap. It provides helpful abstractions for making requests to REDCap's REST API. The project is currently in development and not considered production-ready.
 - name: PHPCap
@@ -23,13 +23,13 @@
   docs: http://pycap.readthedocs.org
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
 - name: redcap
-  repo: https://via.placeholder.com/1.svg
-  repo_release: https://img.shields.io/github/release/peterclark/redcap.svg
+  repo: https://github.com/peterclark/redcap
+  repo_release: https://via.placeholder.com/1.svg
   language: Ruby
   description: A Ruby gem for interacting with the REDCap API.
 - name: REDCap_API
-  repo: https://via.placeholder.com/1.svg
-  repo_release: https://img.shields.io/github/release/james2012/REDCap_API.svg
+  repo: https://github.com/james2012/REDCap_API
+  repo_release: https://via.placeholder.com/1.svg
   language: JavaScript
   description: To Access REDCap by API.
 - name: redcapAPI
