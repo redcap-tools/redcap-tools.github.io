@@ -6,7 +6,7 @@
 # docs: (URL) (optional) location for project documentation
 # description: (string) brief overview of the project. Links must use <a> tags.
 - name: nef-c-sharp
-  repo:
+  repo: https://via.placeholder.com/1.svg
   repo_release: https://img.shields.io/github/release/redcap-tools/nef-c-sharp.svg
   language: C#
   description: These functions push/pull <a href="https://msdn.microsoft.com/en-us/library/system.data.datatable.aspx">DataTables</a>.  It can be used in an .aspx program, or in a windows desktop program, a DET program, etc.
@@ -17,6 +17,6 @@
   description: Data entry triggers for REDCap written using .NET Web API.
 - name: redcap-test-datasets
   repo: https://github.com/redcap-tools/redcap-test-datasets
-  repo_release: 
+  repo_release: https://via.placeholder.com/1.svg
   language: text
   description: Example datasets covering a range of scenarios to facilitate API tests.
