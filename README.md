@@ -15,4 +15,4 @@ The projects & resources tables on the [Projects](http://redcap-tools.github.io/
 * Commit and [sync](https://help.github.com/desktop/guides/contributing/syncing-your-branch/) / [push](https://help.github.com/articles/pushing-to-a-remote/)
 * Make a pull request ([PR](https://github.com/redcap-tools/redcap-tools.github.io/pulls)) against this repo.
 
-If you're unfamilar with GitHub, consider installing the [desktop client](https://desktop.github.com/) (for Windows ans OSX) and starting with [this guide](https://help.github.com/desktop/guides/).
+If you're unfamiliar with GitHub, consider installing the [desktop client](https://desktop.github.com/) (for Windows ans OSX) and starting with [this guide](https://help.github.com/desktop/guides/).
