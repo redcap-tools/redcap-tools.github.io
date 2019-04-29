@@ -5,6 +5,11 @@
 # language: (string) the programming language
 # docs: (URL) (optional) location for project documentation
 # description: (string) brief overview of the project. Links must use <a> tags.
+- name: REDCap.jl
+  repo: https://github.com/bcbi/REDCap.jl
+  repo_release: https://github.com/bcbi/REDCap.jl/releases/tag/v1.0.1
+  language: Julia
+  description: A Julia frontend for the REDCap API. REDCap.jl supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation. Available under the MIT license. 
 - name: GoCap
   repo: https://github.com/tjrivera/go-cap
   repo_release: https://via.placeholder.com/1.svg
