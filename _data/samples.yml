@@ -10,6 +10,11 @@
   repo_release: https://via.placeholder.com/1.svg
   language: C#
   description: These functions push/pull <a href="https://msdn.microsoft.com/en-us/library/system.data.datatable.aspx">DataTables</a>.  It can be used in an .aspx program, or in a windows desktop program, a DET program, etc.
+- name: REDCap-API-and-Stata
+  repo: https://github.com/lsgs/REDCap-API-and-Stata
+  repo_release: https://via.placeholder.com/1.svg
+  language: Stata
+  description: Example Stata do-files for interacting with the REDCap API (using shell command and curl)
 - name: redcap-test-datasets
   repo: https://github.com/redcap-tools/redcap-test-datasets
   repo_release: https://via.placeholder.com/1.svg
@@ -20,4 +25,3 @@
   repo_release: https://img.shields.io/github/release/FredHutch/RedcapDotNetDETs.svg
   language: C#
   description: Data entry triggers for REDCap written using .NET Web API.
-  
