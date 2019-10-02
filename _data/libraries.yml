@@ -16,10 +16,10 @@
   language: Go
   description: A golang based library for REDCap. It provides helpful abstractions for making requests to REDCap's REST API. The project is currently in development and not considered production-ready.
 - name: PHPCap
-  repo: https://github.com/aarenson/PHPCap
-  repo_release: https://img.shields.io/github/release/aarenson/PHPCap.svg
+  repo: https://github.com/iuredcap/phpcap
+  repo_release: https://img.shields.io/github/release/iuredcap/PHPCap.svg
   language: PHP
-  docs: https://github.com/aarenson/PHPCap/blob/master/README.md
+  docs: https://github.com/IUREDCap/PHPCap/blob/master/README.md
   description: Provides classes that simplify the use of the REDCap API using PHP.
 - name: PyCap
   repo: https://github.com/redcap-tools/PyCap
