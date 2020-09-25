@@ -6,7 +6,6 @@ permalink: "/projects/"
 
 Below you'll find interesting projects that programmatically interact with [REDCap](http://www.project-redcap.org/).
 
-
 ##  Libraries
 
 The following libraries can assist communication with REDCap's API.  They can help make your development quicker and more robust.  Unlike the code samples in a subsequent list, these libraries are reusable components (and not loose code that's copied and pasted into each caller).  Each library's readme will have instructions how the deployed instances can be updated after the developer releases a new version.
@@ -55,7 +54,7 @@ The some developers of different libraries have collaborated to create resources
 
 ## Code Samples and Snippets
 
-These samples can be copied and pasted into a larger proram.  Some of the sample's code may have to be modified to work with your existing code.
+These samples can be copied and pasted into a larger program.  Some of the sample's code may have to be modified to work with your existing code.
 
 <table class="table table-striped">
   <thead>
@@ -68,6 +67,31 @@ These samples can be copied and pasted into a larger proram.  Some of the sample
   </thead>
   <tbody>
   {% for sample in site.data.samples %}
+    <tr>
+      <td><a href="{{ sample.repo }}">{{ sample.name }}</a></td>
+	  <td>{{ sample.language }}</td>
+	  <td>{{ sample.description }}</td>
+    <td><img src="{{ sample.repo_release }}" alt="GitHub Release"> {% if sample.docs %} <br /> <a href="{{ sample.docs }}">Documentation</a> {% endif %}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+## Applications
+
+These projects extend REDCap capabilities and facilitate integration with other systems.
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Language</th>
+      <th>Description</th>
+      <th>Release</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for sample in site.data.applications %}
     <tr>
       <td><a href="{{ sample.repo }}">{{ sample.name }}</a></td>
 	  <td>{{ sample.language }}</td>

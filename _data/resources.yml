@@ -20,6 +20,3 @@
 - name: REDCap API 101
   link: https://www.iths.org/blog/news/redcap-tip/redcap-api-101/
   description:  A blog post about the API for users that are new to the concept, from the University of Washington ITHS.
-- name: External Modules Repository
-  link: https://redcap.vanderbilt.edu/consortium/modules/index.php
-  description:  The REDCap Repo is a centralized repository of curated External Modules that can be installed by a REDCap administrator.  External Modules are add-on packages that extend functionality, either at the system level or project level.

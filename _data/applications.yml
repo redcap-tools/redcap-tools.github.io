@@ -1,0 +1,10 @@
+# Each record should contain:
+# name: (string)
+# link: (URL) location to point visitors
+# description: (text) High-level overview about the resource. Format links with <a> tags.
+- name: External Modules Repository
+  link: https://redcap.vanderbilt.edu/consortium/modules/index.php
+  description:  The REDCap Repo is a centralized repository of curated External Modules that can be installed by a REDCap administrator.  External Modules are add-on packages that extend functionality, either at the system level or project level.
+- name: REDCap-ETL
+  link: https://github.com/IUREDCap/redcap-etl
+  description:  REDCap-ETL (REDCap Extract, Transform, Load) is an application that can extract data from REDCap, transform the extracted data, and load the transformed data into a database.
