@@ -7,7 +7,7 @@
   description: REDCap-Tools is a GitHub organization that fosters interesting projects built against REDCap. Developers and projects in this organization have no official ties to REDCap other than looking to push the data management capabilities provided by REDCap’s more advanced tools (namely the API and Data Entry Triggers) to their fullest potential. (Edit the web site source code <a href="https://github.com/redcap-tools/redcap-tools.github.io">here</a>); view the repositories <a href="https://github.com/redcap-tools">here</a>.
 - name: Wiki API Examples
   link: https://community.projectredcap.org/articles/462/api-examples.html
-  description: Several examples with loose code in bash, Java, Powershell, Matlab, VBA, and Stata.  The REDCap wiki is typically accessible only to your instituion's REDCap admin.
+  description: Several examples with loose code in bash, Java, Powershell, Matlab, VBA, and Stata.  The REDCap wiki is typically accessible only to your institution's REDCap admin.
 - name: Wiki API Space
   link: https://community.projectredcap.org/spaces/20/api.html
   description: List of questions and ideas posted to the forum community.
