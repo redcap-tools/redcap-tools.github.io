@@ -83,7 +83,7 @@ These samples can be copied and pasted into a larger program.  Some of the sampl
 Applications
 ---------------------
 
-These projects extend REDCap capabilities and facilitate integration with other systems.
+These programs or scripts extend REDCap capabilities and facilitate integration with other systems.
 
 <table class="table table-striped">
   <thead>
@@ -91,16 +91,14 @@ These projects extend REDCap capabilities and facilitate integration with other 
       <th>Project</th>
       <th>Language</th>
       <th>Description</th>
-      <th>Release</th>
     </tr>
   </thead>
   <tbody>
   {% for sample in site.data.applications %}
     <tr>
-      <td><a href="{{ sample.repo }}">{{ sample.name }}</a></td>
-      <td>{{ sample.language }}</td>
-      <td>{{ sample.description }}</td>
-      <td><img src="{{ sample.repo_release }}" alt="GitHub Release"> {% if sample.docs %} <br /> <a href="{{ sample.docs }}">Documentation</a> {% endif %}</td>
+      <td><a href="{{ application.repo }}">{{ application.name }}</a></td>
+      <td>{{ application.language }}</td>
+      <td>{{ application.description }}</td>
     </tr>
   {% endfor %}
   </tbody>
