@@ -5,11 +5,6 @@
 # language: (string) the programming language
 # docs: (URL) (optional) location for project documentation
 # description: (string) brief overview of the project. Links must use <a> tags.
-- name: REDCap.jl
-  repo: https://github.com/bcbi/REDCap.jl
-  repo_release: https://github.com/bcbi/REDCap.jl/releases/tag/v1.0.1
-  language: Julia
-  description: A Julia frontend for the REDCap API. REDCap.jl supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation. Available under the MIT license. 
 - name: GoCap
   repo: https://github.com/tjrivera/go-cap
   repo_release: https://via.placeholder.com/1.svg
@@ -37,6 +32,22 @@
   repo_release: https://via.placeholder.com/1.svg
   language: JavaScript
   description: To Access REDCap by API.
+- name: redcap-api
+  repo: https://github.com/cctrbic/redcap-api
+  repo_release: https://img.shields.io/badge/release-1.0.7-green.svg
+  language: C#
+  description: REDCap API Library
+- name: REDCap.jl
+  repo: https://github.com/bcbi/REDCap.jl
+  repo_release: https://github.com/bcbi/REDCap.jl/releases/tag/v1.0.1
+  language: Julia
+  description: A Julia frontend for the REDCap API. REDCap.jl supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation. Available under the MIT license. 
+- name: redcap.js
+  repo: https://github.com/iupui-software-innovation/redcap
+  repo_release: https://via.placeholder.com/1.svg
+  language: JavaScript
+  docs: https://github.com/iupui-software-innovation/redcap/wiki
+  description: simple, lightweight JavaScript client module for REDCap
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
   repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
@@ -48,22 +59,11 @@
   repo_release: https://via.placeholder.com/1.svg
   language: Ruby
   description: An interface for REDCAP using Ruby.
-- name: redcap-api
-  repo: https://github.com/cctrbic/redcap-api
-  repo_release: https://img.shields.io/badge/release-1.0.7-green.svg
-  language: C#
-  description: REDCap API Library
 - name: redcaphelper
   repo: https://github.com/agapow/redcaphelper
   repo_release: https://via.placeholder.com/1.svg
   language: Python
   description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
-- name: redcap.js
-  repo: https://github.com/iupui-software-innovation/redcap
-  repo_release: https://via.placeholder.com/1.svg
-  language: JavaScript
-  docs: https://github.com/iupui-software-innovation/redcap/wiki
-  description: simple, lightweight JavaScript client module for REDCap
 - name: REDCapR
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
