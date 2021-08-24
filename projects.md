@@ -18,7 +18,7 @@ The following libraries can assist communication with REDCap's API.  They can he
       <th>Language</th>
       <th>Description</th>
       <th>Release</th>
-      <th>Activity<br>Last 12 months</th>
+      <th>GitHub Activity<br>Last 12 months</th>
     </tr>
   </thead>
   <tbody>
