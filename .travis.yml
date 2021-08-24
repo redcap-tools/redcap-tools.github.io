@@ -1,19 +1,17 @@
 language: ruby
 
 # Follows advice of https://github.com/gjtorikian/html-proofer/wiki/Using-HTMLProofer-From-Ruby-and-Travis
+before_install:
+ - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 addons:
   apt:
     packages:
     - libcurl4-openssl-dev # required to avoid SSL errors
 
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
 # Follows advice of https://github.com/jekyll/jekyll/issues/3480
 install:
   - gem install jekyll
-  - gem install html-proofer
+  - gem install html-proofer -v 3.19.1 # Remove the version number after a few weeks
 
 script:
   - jekyll build
