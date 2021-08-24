@@ -94,7 +94,7 @@ These programs or scripts extend REDCap capabilities and facilitate integration 
     </tr>
   </thead>
   <tbody>
-  {% for sample in site.data.applications %}
+  {% for application in site.data.applications %}
     <tr>
       <td><a href="{{ application.repo }}">{{ application.name }}</a></td>
       <td>{{ application.language }}</td>
