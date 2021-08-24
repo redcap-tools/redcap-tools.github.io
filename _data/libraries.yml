@@ -39,9 +39,9 @@
   description: REDCap API Library
 - name: REDCap.jl
   repo: https://github.com/bcbi/REDCap.jl
-  repo_release: https://github.com/bcbi/REDCap.jl/releases/tag/v1.0.1
+  repo_release: https://via.placeholder.com/1.svg
   language: Julia
-  description: A Julia frontend for the REDCap API. REDCap.jl supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation. Available under the MIT license. 
+  description: A Julia frontend for the REDCap API. (Archived 2019.)
 - name: redcap.js
   repo: https://github.com/iupui-software-innovation/redcap
   repo_release: https://via.placeholder.com/1.svg
