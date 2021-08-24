@@ -20,3 +20,6 @@
 - name: REDCap API 101
   link: https://www.iths.org/blog/news/redcap-tip/redcap-api-101/
   description:  A blog post about the API for users that are new to the concept, from the University of Washington ITHS.
+- name: UC Denver Videos
+  link: https://vimeo.com/ucdredcap
+  description: Tutorial videos from created by the University of Colorado Denver Anschutz
