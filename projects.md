@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Projects"
+title: "REDCap Tools Projects"
 permalink: "/projects/"
 ---
 
