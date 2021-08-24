@@ -11,7 +11,7 @@ addons:
 # Follows advice of https://github.com/jekyll/jekyll/issues/3480
 install:
   - gem install jekyll
-  - gem install html-proofer #-v 3.19.1
+  - gem install html-proofer -v 3.19.1 # Remove the version number after a few weeks
 
 script:
   - jekyll build
