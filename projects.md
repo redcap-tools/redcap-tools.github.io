@@ -18,6 +18,7 @@ The following libraries can assist communication with REDCap's API.  They can he
       <th>Language</th>
       <th>Description</th>
       <th>Release</th>
+      <th>Activity<br>Last 12 months</th>
     </tr>
   </thead>
   <tbody>
@@ -27,6 +28,7 @@ The following libraries can assist communication with REDCap's API.  They can he
       <td>{{ library.language }}</td>
       <td>{{ library.description }}</td>
       <td><img src="{{ library.repo_release }}" alt="GitHub Release"> {% if library.docs %} <br /> <a href="{{ library.docs }}">Documentation</a> {% endif %}</td>
+      <td><img src="{{ library.repo_activity }}" alt="GitHub Activity"></td>
     </tr>
   {% endfor %}
   </tbody>

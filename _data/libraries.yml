@@ -8,65 +8,88 @@
 - name: GoCap
   repo: https://github.com/tjrivera/go-cap
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/tjrivera/go-cap
   language: Go
   description: A golang based library for REDCap. It provides helpful abstractions for making requests to REDCap's REST API. The project is currently in development and not considered production-ready.
+
 - name: PHPCap
   repo: https://github.com/iuredcap/phpcap
   repo_release: https://img.shields.io/github/release/iuredcap/PHPCap.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/iuredcap/PHPCap
   language: PHP
   docs: https://github.com/IUREDCap/PHPCap/blob/master/README.md
   description: Provides classes that simplify the use of the REDCap API using PHP.
+
 - name: PyCap
   repo: https://github.com/redcap-tools/PyCap
   repo_release: https://img.shields.io/github/release/redcap-tools/PyCap.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/redcap-tools/PyCap
   language: Python
   docs: http://pycap.readthedocs.org
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
+
 - name: redcap
   repo: https://github.com/peterclark/redcap
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/peterclark/redcap
   language: Ruby
   description: A Ruby gem for interacting with the REDCap API.
+
 - name: REDCap_API
   repo: https://github.com/james2012/REDCap_API
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/james2012/REDCap_API
   language: JavaScript
   description: To Access REDCap by API.
+
 - name: redcap-api
   repo: https://github.com/cctrbic/redcap-api
   repo_release: https://img.shields.io/badge/release-1.0.7-green.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/cctrbic/redcap-api
   language: C#
   description: REDCap API Library
+
 - name: REDCap.jl
   repo: https://github.com/bcbi/REDCap.jl
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/bcbi/REDCap.jl
   language: Julia
   description: A Julia frontend for the REDCap API. (Archived 2019.)
+
 - name: redcap.js
   repo: https://github.com/iupui-software-innovation/redcap
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/iupui-software-innovation/redcap
   language: JavaScript
   docs: https://github.com/iupui-software-innovation/redcap/wiki
   description: simple, lightweight JavaScript client module for REDCap
+
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
   repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/nutterb/redcapAPI
   language: R
   docs: https://www.rdocumentation.org/packages/redcapAPI
   description: An R interface to REDCap, and is an actively developed fork of <a href="https://github.com/vubiostat/redcap">redcap</a>, originally created by <a href="https://github.com/jeffreyhorner">Jeffrey Horner</a>.
+
 - name: RedcapAPI
   repo: https://github.com/eugyev/RedcapAPI
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/eugyev/RedcapAPI
   language: Ruby
   description: An interface for REDCAP using Ruby.
+
 - name: redcaphelper
   repo: https://github.com/agapow/redcaphelper
   repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/agapow/redcaphelper
   language: Python
   description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
+
 - name: REDCapR
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/OuhscBbmc/REDCapR
   language: R
   docs: https://ouhscbbmc.github.io/REDCapR/
   description: Encapsulates functions to streamline calls from R to the REDCap API.
