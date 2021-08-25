@@ -9,7 +9,7 @@ Below you'll find interesting projects that programmatically interact with [REDC
 Libraries
 ---------------------
 
-The following libraries can assist communication with REDCap's API.  They can help make your development quicker and more robust.  Unlike the code samples in a subsequent list, these libraries are reusable components (and not loose code that's copied and pasted into each caller).  Each library's readme will have instructions how the deployed instances can be updated after the developer releases a new version.
+The following libraries/packages can assist communication with REDCap's API.  They can help make your development quicker and more robust.  Unlike the code samples in a subsequent list, these libraries are reusable components (and not loose code that's copied and pasted into each caller).  Each library's readme will have instructions how the deployed instances can be updated after the developer releases a new version.
 
 <table class="table table-striped">
   <thead>
