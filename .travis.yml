@@ -15,4 +15,4 @@ install:
 
 script:
   - jekyll build
-  - htmlproofer --url-ignore "vimeo.com/" _site
+  - htmlproofer --url-ignore "/vimeo.com/" _site
