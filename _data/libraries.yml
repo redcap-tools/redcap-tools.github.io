@@ -44,13 +44,6 @@
   language: Python
   docs: http://pycap.readthedocs.org
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
-  
-- name: redcaphelper
-  repo: https://github.com/agapow/redcaphelper
-  repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/agapow/redcaphelper?color=blueviolet
-  language: Python
-  description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
 
 - name: GoCap
   repo: https://github.com/tjrivera/go-cap

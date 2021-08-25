@@ -24,3 +24,10 @@
   repo_activity: https://img.shields.io/github/commit-activity/y/RaymondBalise/tidyREDCap?color=blueviolet
   language: R
   description: Helper functions for processing REDCap data.
+
+- name: redcaphelper
+  repo: https://github.com/agapow/redcaphelper
+  repo_release: https://via.placeholder.com/1.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/agapow/redcaphelper?color=blueviolet
+  language: Python
+  description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
