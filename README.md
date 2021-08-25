@@ -1,5 +1,5 @@
 # redcap-tools.github.io
-[![Build Status](https://travis-ci.org/redcap-tools/redcap-tools.github.io.svg?branch=master)](https://travis-ci.org/redcap-tools/redcap-tools.github.io)
+[![Build Status](https://app.travis-ci.com/redcap-tools/redcap-tools.github.io.svg)](https://app.travis-ci.com/github/redcap-tools/redcap-tools.github.io)
 
 This is the [jekyll](https://jekyllrb.com/) site behind the https://redcap-tools.github.io.
 
@@ -15,4 +15,4 @@ The projects & resources tables on the [Projects](https://redcap-tools.github.io
 * Commit and [sync](https://help.github.com/desktop/guides/contributing/syncing-your-branch/) / [push](https://help.github.com/articles/pushing-to-a-remote/)
 * Make a pull request ([PR](https://github.com/redcap-tools/redcap-tools.github.io/pulls)) against this repo.
 
-If you're unfamiliar with GitHub, consider installing the [desktop client](https://desktop.github.com/) (for Windows ans OSX) and starting with [this guide](https://help.github.com/desktop/guides/).
+If you're unfamiliar with GitHub, consider installing the [desktop client](https://desktop.github.com/) (for Windows and OSX) and starting with [this guide](https://help.github.com/desktop/guides/).
