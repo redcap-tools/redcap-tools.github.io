@@ -9,7 +9,7 @@
 - name: REDCapR
   repo: https://github.com/OuhscBbmc/REDCapR
   repo_release: https://img.shields.io/github/release/OuhscBbmc/REDCapR.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/OuhscBbmc/REDCapR?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/OuhscBbmc/REDCapR?color=9cf&label=commits
   language: R
   docs: https://ouhscbbmc.github.io/REDCapR/
   description: Encapsulates R calls to the REDCap API.
@@ -17,7 +17,7 @@
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
   repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/nutterb/redcapAPI?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/nutterb/redcapAPI?color=9cf&label=commits
   language: R
   docs: https://www.rdocumentation.org/packages/redcapAPI
   description: An R interface to the REDCap API.
@@ -25,7 +25,7 @@
 - name: PHPCap
   repo: https://github.com/iuredcap/phpcap
   repo_release: https://img.shields.io/github/release/iuredcap/PHPCap.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/iuredcap/PHPCap?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/iuredcap/PHPCap?color=9cf&label=commits
   language: PHP
   docs: https://github.com/IUREDCap/PHPCap/blob/master/README.md
   description: Classes that simplify the use of the REDCap API using PHP.
@@ -33,7 +33,7 @@
 - name: redcap-api
   repo: https://github.com/cctrbic/redcap-api
   repo_release: https://img.shields.io/github/release/cctrbic/redcap-api
-  repo_activity: https://img.shields.io/github/commit-activity/y/cctrbic/redcap-api?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/cctrbic/redcap-api?color=9cf&label=commits
   language: C#
   docs: https://www.nuget.org/packages/RedcapAPI
   description: Library for the REDCap API.
@@ -41,7 +41,7 @@
 - name: PyCap
   repo: https://github.com/redcap-tools/PyCap
   repo_release: https://img.shields.io/github/release/redcap-tools/PyCap.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/redcap-tools/PyCap?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/redcap-tools/PyCap?color=9cf&label=commits
   language: Python
   docs: http://pycap.readthedocs.org
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="http://pandas.pydata.org">pandas</a>.
@@ -49,14 +49,14 @@
 - name: GoCap
   repo: https://github.com/tjrivera/go-cap
   repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/tjrivera/go-cap?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/tjrivera/go-cap?color=9cf&label=commits
   language: Go
   description: Helpful abstractions for REDCap's REST API.<br><i>The project is currently in development and not considered production-ready.</i>
 
 - name: redcap.js
   repo: https://github.com/iupui-software-innovation/redcap
   repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/iupui-software-innovation/redcap?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/iupui-software-innovation/redcap?color=9cf&label=commits
   language: JavaScript
   docs: https://github.com/iupui-software-innovation/redcap/wiki
   description: Simple, lightweight JavaScript client module for the REDCap API.
@@ -64,21 +64,21 @@
 - name: REDCap.jl
   repo: https://github.com/bcbi/REDCap.jl
   repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/bcbi/REDCap.jl?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/bcbi/REDCap.jl?color=9cf&label=commits
   language: Julia
   description: A Julia frontend for the REDCap API.<br><i>Archived 2019.</i>
 
 - name: redcap
   repo: https://github.com/peterclark/redcap
   repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/peterclark/redcap?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/peterclark/redcap?color=9cf&label=commits
   language: Ruby
   description: A Ruby gem for interacting with the REDCap API.
 
 - name: RedcapAPI
   repo: https://github.com/eugyev/RedcapAPI
   repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/eugyev/RedcapAPI?color=blueviolet
+  repo_activity: https://img.shields.io/github/commit-activity/y/eugyev/RedcapAPI?color=9cf&label=commits
   language: Ruby
   description: A Ruby interface to the REDCAP API.
 
