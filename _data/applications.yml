@@ -6,18 +6,21 @@
 
 - name: collaboratoR
   repo: https://github.com/kamclean/collaborator
+  repo_release: https://img.shields.io/github/release/kamclean/collaborator
   repo_activity: https://img.shields.io/github/commit-activity/y/iuredcap/PHPCap?color=blueviolet
   language: R
   description: Facilitates administration of multi-site investigations.
 
 - name: REDCap-ETL
   repo: https://github.com/IUREDCap/redcap-etl
+  repo_release: https://img.shields.io/github/release/IUREDCap/redcap-etl
   repo_activity: https://img.shields.io/github/commit-activity/y/IUREDCap/redcap-etl?color=blueviolet
   language: PHP
   description:  Extract data from REDCap, transform the extracted data, and load the transformed data into a database.
 
 - name: tidyREDCap
   repo: https://github.com/RaymondBalise/tidyREDCap
+  repo_release: https://via.placeholder.com/1.svg
   repo_activity: https://img.shields.io/github/commit-activity/y/RaymondBalise/tidyREDCap?color=blueviolet
   language: R
   description: Helper functions for processing REDCap data.

@@ -93,6 +93,7 @@ These programs or scripts extend REDCap capabilities and facilitate integration 
       <th>Project</th>
       <th>Language</th>
       <th>Description</th>
+      <th>Release</th>
       <th>GitHub Activity<br>Last 12 months</th>
     </tr>
   </thead>
@@ -102,6 +103,7 @@ These programs or scripts extend REDCap capabilities and facilitate integration 
       <td><a href="{{ application.repo }}">{{ application.name }}</a></td>
       <td>{{ application.language }}</td>
       <td>{{ application.description }}</td>
+      <td><a href="{{ application.repo }}/releases"><img src="{{ application.repo_release }}" alt="GitHub Release"></a></td>
       <td><a href="{{ application.repo }}/graphs/contributors"><img src="{{ application.repo_activity }}" alt="GitHub Activity"></a></td>
     </tr>
   {% endfor %}
