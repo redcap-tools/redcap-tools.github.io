@@ -35,6 +35,7 @@
   repo_release: https://img.shields.io/github/release/cctrbic/redcap-api
   repo_activity: https://img.shields.io/github/commit-activity/y/cctrbic/redcap-api?color=blueviolet
   language: C#
+  docs: https://www.nuget.org/packages/RedcapAPI
   description: Library for the REDCap API.
 
 - name: PyCap
