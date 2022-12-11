@@ -15,12 +15,12 @@
   description: Encapsulates R calls to the REDCap API.
 
 - name: REDCapTidieR
-  repo: https://github.com/CHOP-CGTDataOps/REDCapTidieR
-  repo_release: https://img.shields.io/github/release/CHOP-CGTDataOps/REDCapTidieR.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/CHOP-CGTDataOps/REDCapTidieR?color=9cf&label=commits
+  repo: https://github.com/CHOP-CGTInformatics/REDCapTidieR
+  repo_release: https://img.shields.io/github/release/CHOP-CGTInformatics/REDCapTidieR.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/CHOP-CGTInformatics/REDCapTidieR?color=9cf&label=commits
   language: R
-  docs: https://chop-cgtdataops.github.io/REDCapTidieR/
-  description: Transforms REDCap records into a set of <a href="https://tidyr.tidyverse.org/articles/tidy-data.html">tidy</a> tables.
+  docs: https://chop-cgtinformatics.github.io/REDCapTidieR/
+  description: Makes it easy to read data from a REDCap project into R. Uses REDCapR under the hood.
 
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
