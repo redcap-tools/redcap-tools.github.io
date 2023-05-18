@@ -22,8 +22,17 @@
   docs: https://chop-cgtinformatics.github.io/REDCapTidieR/
   description: Makes it easy to read data from a REDCap project into R. Uses REDCapR under the hood.
 
+- name: tidyREDCap
+  repo: https://github.com/raymondbalise/tidyREDCap
+  repo_release: https://img.shields.io/github/release/raymondbalise/tidyREDCap.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/raymondbalise/tidyREDCap?color=9cf&label=commits
+  language: R
+  docs: https://raymondbalise.github.io/tidyREDCap/
+  description: Functions for processing REDCap data..
+
 - name: redcapAPI
   repo: https://github.com/nutterb/redcapAPI
+  repo_release: https://via.placeholder.com/1.svg
   # not found-- repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
   repo_activity: https://img.shields.io/github/commit-activity/y/nutterb/redcapAPI?color=9cf&label=commits
   language: R
@@ -32,6 +41,7 @@
 
 - name: REDCapDM
   repo: https://github.com/ubidi/REDCapDM
+  repo_release: https://via.placeholder.com/1.svg
   # none yet-- repo_release: https://img.shields.io/github/release/ubidi/REDCapDM.svg
   repo_activity: https://img.shields.io/github/commit-activity/y/ubidi/REDCapDM?color=9cf&label=commits
   language: R
