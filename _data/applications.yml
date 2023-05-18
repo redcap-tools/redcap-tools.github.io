@@ -18,13 +18,6 @@
   language: R
   description: Facilitates administration of multi-site investigations.
 
-- name: tidyREDCap
-  repo: https://github.com/RaymondBalise/tidyREDCap
-  repo_release: https://via.placeholder.com/1.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/RaymondBalise/tidyREDCap?color=9cf&label=commits
-  language: R
-  description: Helper functions for processing REDCap data.
-
 - name: redcaphelper
   repo: https://github.com/agapow/redcaphelper
   repo_release: https://via.placeholder.com/1.svg
