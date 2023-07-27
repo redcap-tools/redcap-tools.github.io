@@ -24,3 +24,10 @@
   repo_activity: https://img.shields.io/github/commit-activity/y/agapow/redcaphelper?color=9cf&label=commits
   language: Python
   description: Wraps <a href="https://github.com/redcap-tools/PyCap">PyCap</a> to facilitate uploads, backups as well as other tasks.
+
+- name: redcapcustodian
+  repo: https://github.com/ctsit/redcapcustodian
+  repo_release: https://img.shields.io/github/v/release/ctsit/redcapcustodian.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/ctsit/redcapcustodian?color=9cf&label=commits
+  language: R (94%), Shell, Dockerfile, Perl
+  description: Simplifies data management activities on REDCap systems. It provides a framework for automating data extraction, transformation, and loading (ETL) work with a focus on REDCap workflows and maintenance tasks. See <a href="https://ctsit.github.io/redcapcustodian/">https://ctsit.github.io/redcapcustodian/</a>
