@@ -30,4 +30,4 @@
   repo_release: https://img.shields.io/github/v/release/ctsit/redcapcustodian.svg
   repo_activity: https://img.shields.io/github/commit-activity/y/ctsit/redcapcustodian?color=9cf&label=commits
   language: R
-  description: Simplifies data management activities on REDCap systems. It provides a framework for automating data extraction, transformation, and loading (ETL) work with a focus on REDCap workflows and maintenance tasks.
+  description: Simplifies data management activities on REDCap systems. It provides a framework for automating data extraction, transformation, and loading (ETL) work with a focus on REDCap workflows and maintenance tasks. Uses Docker, shell script, and cron to automate workflows.
