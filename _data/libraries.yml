@@ -70,7 +70,7 @@
   repo_release: https://img.shields.io/github/release/redcap-tools/PyCap.svg
   repo_activity: https://img.shields.io/github/commit-activity/y/redcap-tools/PyCap?color=9cf&label=commits
   language: Python
-  docs: https://pycap.readthedocs.org
+  docs: https://redcap-tools.github.io/PyCap/
   description: A minimal wrapper around the REDCap API to export & import data and files. It natively works with <a href="https://pandas.pydata.org">pandas</a>.
 
 - name: GoCap
