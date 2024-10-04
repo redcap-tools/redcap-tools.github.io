@@ -56,6 +56,14 @@
   language: R
   docs: https://agdamsbo.github.io/REDCapCAST/
   description: Casting and handling of castellated data when using repeated instruments and longitudinal projects.
+  
+- name: ReviewR
+  repo: https://github.com/thewileylab/ReviewR
+  repo_release: https://img.shields.io/github/release/thewileylab/ReviewR.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/thewileylab/ReviewR?color=9cf&label=commits
+  language: R
+  docs: https://reviewr.thewileylab.org/
+  description: A Shiny tool for performing manual review of electronic medical records.
 
 - name: PHPCap
   repo: https://github.com/iuredcap/phpcap
