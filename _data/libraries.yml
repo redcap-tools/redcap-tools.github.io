@@ -48,6 +48,14 @@
   language: R
   docs: https://ubidi.github.io/REDCapDM/
   description: REDCap Data Management.
+  
+- name: REDCapCAST
+  repo: https://github.com/agdamsbo/REDCapCAST
+  repo_release: https://img.shields.io/github/release/agdamsbo/REDCapCAST.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/agdamsbo/REDCapCAST?color=9cf&label=commits
+  language: R
+  docs: https://agdamsbo.github.io/REDCapCAST/
+  description: Casting and handling of castellated data when using repeated instruments and longitudinal projects.
 
 - name: PHPCap
   repo: https://github.com/iuredcap/phpcap
