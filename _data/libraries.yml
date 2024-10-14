@@ -24,7 +24,7 @@
 
 - name: tidyREDCap
   repo: https://github.com/raymondbalise/tidyREDCap
-  repo_release: https://via.placeholder.com/1.svg
+  # repo_release: https://via.placeholder.com/1.svg
   # not found-- repo_release: https://img.shields.io/github/release/raymondbalise/tidyREDCap.svg
   repo_activity: https://img.shields.io/github/commit-activity/y/raymondbalise/tidyREDCap?color=9cf&label=commits
   language: R
