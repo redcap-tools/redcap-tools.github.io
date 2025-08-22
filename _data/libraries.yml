@@ -31,10 +31,9 @@
   description: Functions for processing REDCap data.
 
 - name: redcapAPI
-  repo: https://github.com/nutterb/redcapAPI
-  repo_release: https://via.placeholder.com/1.svg
-  # not found-- repo_release: https://img.shields.io/github/release/nutterb/redcapAPI.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/nutterb/redcapAPI?color=9cf&label=commits
+  repo: https://github.com/vubiostat/redcapAPI/redcapAPI
+  repo_release: https://img.shields.io/github/release/vubiostat/redcapAPI.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/vubiostat/redcapAPI?color=9cf&label=commits
   language: R
   docs: https://www.rdocumentation.org/packages/redcapAPI
   description: An R interface to the REDCap API.
