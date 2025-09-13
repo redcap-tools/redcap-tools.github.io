@@ -14,6 +14,14 @@
   docs: https://ouhscbbmc.github.io/REDCapR/
   description: Encapsulates R calls to the REDCap API.
 
+- name: redcapAPI
+  repo: https://github.com/vubiostat/redcapAPI
+  repo_release: https://img.shields.io/github/release/vubiostat/redcapAPI.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/vubiostat/redcapAPI?color=9cf&label=commits
+  language: R
+  docs: https://www.rdocumentation.org/packages/redcapAPI
+  description: An R interface to the REDCap API.
+
 - name: REDCapTidieR
   repo: https://github.com/CHOP-CGTInformatics/REDCapTidieR
   repo_release: https://img.shields.io/github/release/CHOP-CGTInformatics/REDCapTidieR.svg
@@ -29,14 +37,6 @@
   language: R
   docs: https://raymondbalise.github.io/tidyREDCap/
   description: Functions for processing REDCap data.
-
-- name: redcapAPI
-  repo: https://github.com/vubiostat/redcapAPI/redcapAPI
-  repo_release: https://img.shields.io/github/release/vubiostat/redcapAPI.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/vubiostat/redcapAPI?color=9cf&label=commits
-  language: R
-  docs: https://www.rdocumentation.org/packages/redcapAPI
-  description: An R interface to the REDCap API.
 
 - name: REDCapDM
   repo: https://github.com/ubidi/REDCapDM
