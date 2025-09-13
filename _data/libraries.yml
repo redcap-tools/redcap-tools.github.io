@@ -39,12 +39,12 @@
   description: Functions for processing REDCap data.
 
 - name: REDCapDM
-  repo: https://github.com/ubidi/REDCapDM
+  repo: https://github.com/bruigtp/REDCapDM
   repo_release: https://via.placeholder.com/1.svg
   # none yet-- repo_release: https://img.shields.io/github/release/ubidi/REDCapDM.svg
-  repo_activity: https://img.shields.io/github/commit-activity/y/ubidi/REDCapDM?color=9cf&label=commits
+  repo_activity: https://img.shields.io/github/commit-activity/y/bruigtp/REDCapDM?color=9cf&label=commits
   language: R
-  docs: https://ubidi.github.io/REDCapDM/
+  docs: https://bruigtp.github.io/REDCapDM/
   description: REDCap Data Management.
   
 - name: REDCapCAST
