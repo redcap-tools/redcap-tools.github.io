@@ -63,6 +63,14 @@
   docs: https://reviewr.thewileylab.org/
   description: A Shiny tool for performing manual review of electronic medical records.
 
+- name: rctools
+  repo: https://github.com/marcuslehr/rctools
+  repo_release: https://img.shields.io/github/v/release/marcuslehr/rctools.svg
+  repo_activity: https://img.shields.io/github/commit-activity/y/marcuslehr/rctools?color=9cf&label=commits
+  language: R
+  docs: https://github.com/marcuslehr/rctools
+  description: Clean and simple functions for common REDCap API and data manipulation tasks.
+
 - name: PHPCap
   repo: https://github.com/iuredcap/phpcap
   repo_release: https://img.shields.io/github/release/iuredcap/PHPCap.svg
